@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color><!--pure white -->
+    <color name="uda">#2E3D49</color>
+    <color name="orange">#FFA500</color>
+    <color name="red">#FF0000</color>
+</resources>
